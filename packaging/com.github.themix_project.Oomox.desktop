@@ -1,7 +1,9 @@
 [Desktop Entry]
-Name=Oomox: customize icons and GTK themes
+Name=Icons and GTK themes customizer Oomox
+Name[fr]=Personnalisation d'icônes et thèmes GTK Oomox
 GenericName=Oomox
 Comment=Graphical application for generating different color variations of Numix and Materia GTK themes, gnome-colors and ArchDroid icon themes
+Comment[fr]=Application graphique permettant de générer différentes variations de couleurs des thèmes GTK Numix et Materia ainsi que des thèmes d'icônes gnome-colors et ArchDroid
 Exec=oomox-gui
 Terminal=false
 Type=Application
